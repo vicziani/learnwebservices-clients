@@ -1,0 +1,14 @@
+_site
+
+.idea
+target
+*.iml
+
+.settings
+.classpath
+.project
+
+node_modules
+
+*.egg-info
+venv
