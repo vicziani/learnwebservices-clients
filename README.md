@@ -8,7 +8,7 @@ served on the https://learnwebservices.com site.
 * `lwsapp-cxf-client` - Java CXF client
 * `lwsapp-dotnet-client` - .NET client with C#
 * `lwsapp-groovy-client` - Groovy client
-* `lwsapp-jaxwsri-client` - Java JAX-RS RI client
+* `lwsapp-jaxwsri-client` - Java JAX-WS RI client
 * `lwsapp-jmeter-project` - JMeter project file
 * `lwsapp-js-client` - Node.js client with SOAP library
 * `lwsapp-php-client` - PHP client with SOAP extension
